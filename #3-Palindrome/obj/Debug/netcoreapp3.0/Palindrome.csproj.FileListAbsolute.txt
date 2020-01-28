@@ -1,0 +1,14 @@
+D:\Users\bsi50129\.vscode\Task Command Line\Palindrome\obj\Debug\netcoreapp3.0\Palindrome.csprojAssemblyReference.cache
+D:\Users\bsi50129\.vscode\Task Command Line\Palindrome\obj\Debug\netcoreapp3.0\Palindrome.AssemblyInfoInputs.cache
+D:\Users\bsi50129\.vscode\Task Command Line\Palindrome\obj\Debug\netcoreapp3.0\Palindrome.AssemblyInfo.cs
+D:\Users\bsi50129\.vscode\Task Command Line\Palindrome\bin\Debug\netcoreapp3.0\Palindrome.exe
+D:\Users\bsi50129\.vscode\Task Command Line\Palindrome\bin\Debug\netcoreapp3.0\Palindrome.deps.json
+D:\Users\bsi50129\.vscode\Task Command Line\Palindrome\bin\Debug\netcoreapp3.0\Palindrome.runtimeconfig.json
+D:\Users\bsi50129\.vscode\Task Command Line\Palindrome\bin\Debug\netcoreapp3.0\Palindrome.runtimeconfig.dev.json
+D:\Users\bsi50129\.vscode\Task Command Line\Palindrome\bin\Debug\netcoreapp3.0\Palindrome.dll
+D:\Users\bsi50129\.vscode\Task Command Line\Palindrome\bin\Debug\netcoreapp3.0\Palindrome.pdb
+D:\Users\bsi50129\.vscode\Task Command Line\Palindrome\bin\Debug\netcoreapp3.0\McMaster.Extensions.CommandLineUtils.dll
+D:\Users\bsi50129\.vscode\Task Command Line\Palindrome\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\Users\bsi50129\.vscode\Task Command Line\Palindrome\obj\Debug\netcoreapp3.0\Palindrome.csproj.CopyComplete
+D:\Users\bsi50129\.vscode\Task Command Line\Palindrome\obj\Debug\netcoreapp3.0\Palindrome.dll
+D:\Users\bsi50129\.vscode\Task Command Line\Palindrome\obj\Debug\netcoreapp3.0\Palindrome.pdb

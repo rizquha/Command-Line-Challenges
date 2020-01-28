@@ -1,0 +1,14 @@
+D:\Users\bsi50129\.vscode\Task Command Line\InfiniteInputs\obj\Debug\netcoreapp3.0\InfiniteInputs.csprojAssemblyReference.cache
+D:\Users\bsi50129\.vscode\Task Command Line\InfiniteInputs\obj\Debug\netcoreapp3.0\InfiniteInputs.AssemblyInfoInputs.cache
+D:\Users\bsi50129\.vscode\Task Command Line\InfiniteInputs\obj\Debug\netcoreapp3.0\InfiniteInputs.AssemblyInfo.cs
+D:\Users\bsi50129\.vscode\Task Command Line\InfiniteInputs\bin\Debug\netcoreapp3.0\InfiniteInputs.exe
+D:\Users\bsi50129\.vscode\Task Command Line\InfiniteInputs\bin\Debug\netcoreapp3.0\InfiniteInputs.deps.json
+D:\Users\bsi50129\.vscode\Task Command Line\InfiniteInputs\bin\Debug\netcoreapp3.0\InfiniteInputs.runtimeconfig.json
+D:\Users\bsi50129\.vscode\Task Command Line\InfiniteInputs\bin\Debug\netcoreapp3.0\InfiniteInputs.runtimeconfig.dev.json
+D:\Users\bsi50129\.vscode\Task Command Line\InfiniteInputs\bin\Debug\netcoreapp3.0\InfiniteInputs.dll
+D:\Users\bsi50129\.vscode\Task Command Line\InfiniteInputs\bin\Debug\netcoreapp3.0\InfiniteInputs.pdb
+D:\Users\bsi50129\.vscode\Task Command Line\InfiniteInputs\bin\Debug\netcoreapp3.0\McMaster.Extensions.CommandLineUtils.dll
+D:\Users\bsi50129\.vscode\Task Command Line\InfiniteInputs\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\Users\bsi50129\.vscode\Task Command Line\InfiniteInputs\obj\Debug\netcoreapp3.0\InfiniteInputs.csproj.CopyComplete
+D:\Users\bsi50129\.vscode\Task Command Line\InfiniteInputs\obj\Debug\netcoreapp3.0\InfiniteInputs.dll
+D:\Users\bsi50129\.vscode\Task Command Line\InfiniteInputs\obj\Debug\netcoreapp3.0\InfiniteInputs.pdb

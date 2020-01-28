@@ -1,0 +1,14 @@
+D:\Users\bsi50129\.vscode\Task Command Line\Arithmetic\obj\Debug\netcoreapp3.0\Arithmetic.csprojAssemblyReference.cache
+D:\Users\bsi50129\.vscode\Task Command Line\Arithmetic\obj\Debug\netcoreapp3.0\Arithmetic.AssemblyInfoInputs.cache
+D:\Users\bsi50129\.vscode\Task Command Line\Arithmetic\obj\Debug\netcoreapp3.0\Arithmetic.AssemblyInfo.cs
+D:\Users\bsi50129\.vscode\Task Command Line\Arithmetic\bin\Debug\netcoreapp3.0\Arithmetic.exe
+D:\Users\bsi50129\.vscode\Task Command Line\Arithmetic\bin\Debug\netcoreapp3.0\Arithmetic.deps.json
+D:\Users\bsi50129\.vscode\Task Command Line\Arithmetic\bin\Debug\netcoreapp3.0\Arithmetic.runtimeconfig.json
+D:\Users\bsi50129\.vscode\Task Command Line\Arithmetic\bin\Debug\netcoreapp3.0\Arithmetic.runtimeconfig.dev.json
+D:\Users\bsi50129\.vscode\Task Command Line\Arithmetic\bin\Debug\netcoreapp3.0\Arithmetic.dll
+D:\Users\bsi50129\.vscode\Task Command Line\Arithmetic\bin\Debug\netcoreapp3.0\Arithmetic.pdb
+D:\Users\bsi50129\.vscode\Task Command Line\Arithmetic\bin\Debug\netcoreapp3.0\McMaster.Extensions.CommandLineUtils.dll
+D:\Users\bsi50129\.vscode\Task Command Line\Arithmetic\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\Users\bsi50129\.vscode\Task Command Line\Arithmetic\obj\Debug\netcoreapp3.0\Arithmetic.csproj.CopyComplete
+D:\Users\bsi50129\.vscode\Task Command Line\Arithmetic\obj\Debug\netcoreapp3.0\Arithmetic.dll
+D:\Users\bsi50129\.vscode\Task Command Line\Arithmetic\obj\Debug\netcoreapp3.0\Arithmetic.pdb

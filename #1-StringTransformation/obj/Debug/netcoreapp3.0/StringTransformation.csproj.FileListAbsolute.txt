@@ -1,0 +1,14 @@
+D:\Users\bsi50129\.vscode\Task Command Line\StringTransformation\bin\Debug\netcoreapp3.0\StringTransformation.exe
+D:\Users\bsi50129\.vscode\Task Command Line\StringTransformation\bin\Debug\netcoreapp3.0\StringTransformation.deps.json
+D:\Users\bsi50129\.vscode\Task Command Line\StringTransformation\bin\Debug\netcoreapp3.0\StringTransformation.runtimeconfig.json
+D:\Users\bsi50129\.vscode\Task Command Line\StringTransformation\bin\Debug\netcoreapp3.0\StringTransformation.runtimeconfig.dev.json
+D:\Users\bsi50129\.vscode\Task Command Line\StringTransformation\bin\Debug\netcoreapp3.0\StringTransformation.dll
+D:\Users\bsi50129\.vscode\Task Command Line\StringTransformation\bin\Debug\netcoreapp3.0\StringTransformation.pdb
+D:\Users\bsi50129\.vscode\Task Command Line\StringTransformation\bin\Debug\netcoreapp3.0\McMaster.Extensions.CommandLineUtils.dll
+D:\Users\bsi50129\.vscode\Task Command Line\StringTransformation\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\Users\bsi50129\.vscode\Task Command Line\StringTransformation\obj\Debug\netcoreapp3.0\StringTransformation.csprojAssemblyReference.cache
+D:\Users\bsi50129\.vscode\Task Command Line\StringTransformation\obj\Debug\netcoreapp3.0\StringTransformation.AssemblyInfoInputs.cache
+D:\Users\bsi50129\.vscode\Task Command Line\StringTransformation\obj\Debug\netcoreapp3.0\StringTransformation.AssemblyInfo.cs
+D:\Users\bsi50129\.vscode\Task Command Line\StringTransformation\obj\Debug\netcoreapp3.0\StringTransformation.csproj.CopyComplete
+D:\Users\bsi50129\.vscode\Task Command Line\StringTransformation\obj\Debug\netcoreapp3.0\StringTransformation.dll
+D:\Users\bsi50129\.vscode\Task Command Line\StringTransformation\obj\Debug\netcoreapp3.0\StringTransformation.pdb

@@ -1,0 +1,14 @@
+D:\Users\bsi50129\.vscode\Task Command Line\ExternalIPAddress\bin\Debug\netcoreapp3.0\ExternalIPAddress.exe
+D:\Users\bsi50129\.vscode\Task Command Line\ExternalIPAddress\bin\Debug\netcoreapp3.0\ExternalIPAddress.deps.json
+D:\Users\bsi50129\.vscode\Task Command Line\ExternalIPAddress\bin\Debug\netcoreapp3.0\ExternalIPAddress.runtimeconfig.json
+D:\Users\bsi50129\.vscode\Task Command Line\ExternalIPAddress\bin\Debug\netcoreapp3.0\ExternalIPAddress.runtimeconfig.dev.json
+D:\Users\bsi50129\.vscode\Task Command Line\ExternalIPAddress\bin\Debug\netcoreapp3.0\ExternalIPAddress.dll
+D:\Users\bsi50129\.vscode\Task Command Line\ExternalIPAddress\bin\Debug\netcoreapp3.0\ExternalIPAddress.pdb
+D:\Users\bsi50129\.vscode\Task Command Line\ExternalIPAddress\bin\Debug\netcoreapp3.0\McMaster.Extensions.CommandLineUtils.dll
+D:\Users\bsi50129\.vscode\Task Command Line\ExternalIPAddress\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\Users\bsi50129\.vscode\Task Command Line\ExternalIPAddress\obj\Debug\netcoreapp3.0\ExternalIPAddress.csprojAssemblyReference.cache
+D:\Users\bsi50129\.vscode\Task Command Line\ExternalIPAddress\obj\Debug\netcoreapp3.0\ExternalIPAddress.AssemblyInfoInputs.cache
+D:\Users\bsi50129\.vscode\Task Command Line\ExternalIPAddress\obj\Debug\netcoreapp3.0\ExternalIPAddress.AssemblyInfo.cs
+D:\Users\bsi50129\.vscode\Task Command Line\ExternalIPAddress\obj\Debug\netcoreapp3.0\ExternalIPAddress.csproj.CopyComplete
+D:\Users\bsi50129\.vscode\Task Command Line\ExternalIPAddress\obj\Debug\netcoreapp3.0\ExternalIPAddress.dll
+D:\Users\bsi50129\.vscode\Task Command Line\ExternalIPAddress\obj\Debug\netcoreapp3.0\ExternalIPAddress.pdb
