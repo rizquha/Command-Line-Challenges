@@ -82,8 +82,8 @@ namespace RandomString
                 int length_ = 32;
                 bool letters_ = true;
                 bool numbers_ = true;
-                bool uppercase_=true;
-                bool lowercase_ = true;
+                bool uppercase_=false;
+                bool lowercase_ = false;
                 app.OnExecute(()=>
                 {
                     if (length.HasValue())

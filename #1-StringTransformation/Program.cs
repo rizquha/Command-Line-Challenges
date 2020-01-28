@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Globalization;
-using System.Linq;
 using McMaster.Extensions.CommandLineUtils;
 
 namespace StringTransformation

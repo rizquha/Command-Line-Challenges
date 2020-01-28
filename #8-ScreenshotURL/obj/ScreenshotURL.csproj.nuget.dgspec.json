@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\bsi50129\\.vscode\\Task Command Line\\ScreenshotURL\\ScreenshotURL.csproj": {}
+    "D:\\Users\\bsi50129\\.vscode\\Task Command Line\\#8-ScreenshotURL\\ScreenshotURL.csproj": {}
   },
   "projects": {
-    "D:\\Users\\bsi50129\\.vscode\\Task Command Line\\ScreenshotURL\\ScreenshotURL.csproj": {
+    "D:\\Users\\bsi50129\\.vscode\\Task Command Line\\#8-ScreenshotURL\\ScreenshotURL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\bsi50129\\.vscode\\Task Command Line\\ScreenshotURL\\ScreenshotURL.csproj",
+        "projectUniqueName": "D:\\Users\\bsi50129\\.vscode\\Task Command Line\\#8-ScreenshotURL\\ScreenshotURL.csproj",
         "projectName": "ScreenshotURL",
-        "projectPath": "D:\\Users\\bsi50129\\.vscode\\Task Command Line\\ScreenshotURL\\ScreenshotURL.csproj",
+        "projectPath": "D:\\Users\\bsi50129\\.vscode\\Task Command Line\\#8-ScreenshotURL\\ScreenshotURL.csproj",
         "packagesPath": "D:\\Users\\bsi50129\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\bsi50129\\.vscode\\Task Command Line\\ScreenshotURL\\obj\\",
+        "outputPath": "D:\\Users\\bsi50129\\.vscode\\Task Command Line\\#8-ScreenshotURL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -39,6 +39,10 @@
       "frameworks": {
         "netcoreapp3.0": {
           "dependencies": {
+            "McMaster.Extensions.CommandLineUtils": {
+              "target": "Package",
+              "version": "[2.5.0, )"
+            },
             "PuppeteerSharp": {
               "target": "Package",
               "version": "[2.0.0, )"
